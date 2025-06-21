@@ -1,0 +1,12 @@
+# requirements.txt
+google-adk
+litellm
+agent-starter-pack
+python-dotenv
+requests
+tweepy
+openai
+beautifulsoup4
+schedule
+arxiv
+lxml
